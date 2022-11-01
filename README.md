@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Front-End/Backend Development**
 
 
 
