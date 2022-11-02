@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Ravi Prakash</h1>
-<h3 align="left">I am UI/UX Developer</h3>
+<h1 align="left">Hi, I am Ravi Prakash</h1>
+<h3 align="left">An avid Programmer, Mathematician and AI Enthusiast!</h3>
 - 📧 Mail: ravi1prakash8@gmail.com </br>
 - 🌐 Website: https://raviprakash11.github.io/ </br>
 - ⚡ Fun fact: Actually, nothing. </br>
