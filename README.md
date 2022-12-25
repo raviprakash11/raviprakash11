@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I am Ravi Prakash</h1>
 <h3 align="left">An avid Programmer, Mathematician and AI Enthusiast!</h3>
-- 📧 Mail: ravi1prakash8@gmail.com </br>
+- 📧 Mail: raviswork@outlook.com</br>
 - 🌐 Website: https://raviprakash11.github.io/ </br>
 - ⚡ Fun fact: Actually, nothing. </br>
 <h3 align="left">Languages and Tools:</h3>
