@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I am Ravi Prakash</h1>
-<h3 align="left">An avid Programmer, Mathematician and AI Enthusiast!</h3>
+<h3 align="left">Graduate, Software Engineer</h3>
 - 🔭 I’m currently working on <a href="https://raviprakash11.github.io/GitWiz" target="_blank">GitWiz</a></br>
 - 🌱 I’m currently learning ReactJS </br>
 - ❓ Ask me about anything related to Automation Testing </br>
