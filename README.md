@@ -1,5 +1,13 @@
-<h1 align="left">Hi, I am Ravi Prakash</h1>
-<h3 align="left">UI/UX Engineer</h3>
+<h1 align="center">RAVI PRAKASH, (he/him/his)</h1>
+<p align="center">
+<a href="https://github.com/raviprakash11">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=30&pause=800&color=20232A&width=440&height=45&lines=Hello+World;Namaste+World;Guten+Tag+World;Bonjour+World;Hola+World;Salam+World;Sawasdee+World;xin+chào+world;" /></a>
+</p>
+<div align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+</div>
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 - 🔭 I’m currently working on <a href="https://raviprakash11.github.io/GitWiz" target="_blank">GitWiz</a></br>
 - 🌱 I’m currently learning ReactJS </br>
 - ❓ Ask me about anything related to Automation Testing</br>
