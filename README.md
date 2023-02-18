@@ -20,3 +20,20 @@
 <a href="https://discordapp.com/users/955343456266506241"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="raviprakash#2166" ></a>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raviprakash11&bg_color=161B22&color=e49b0f&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+tokyonight vs radical
+
+Themes: gruvbox, radical, tokyonight
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+![line gif](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif) fading line
+
+<details>
+  <summary>GitHub Trophies 🏆</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=raviprakash11"/>
+  </p>
+</details>
+
+<img src="./assets/metrics.plugin.achievements.svg">
