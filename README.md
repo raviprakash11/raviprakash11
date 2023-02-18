@@ -17,3 +17,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raviprakash11" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=raviprakash11&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
