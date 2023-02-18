@@ -14,8 +14,8 @@
 - ❓ Ask me about anything related to Automation Testing</br>
 - ⚡ Fun fact: Actually, nothing. </br>
 
-<h3 align="center">GitHub Trophies 🏆</h3>
-<p align="center">
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=raviprakash11"/>
 </p>
 
