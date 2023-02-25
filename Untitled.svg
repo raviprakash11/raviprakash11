@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
   <defs>
-    <filter id="inner-shadow-filter-0" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="inner-shadow 1 0 0 10 0.5 rgba(0,0,0,0.7)">
+    <filter id="inner-shadow-filter-0" color-interpolation-filters="sRGB" x="-500%" y="-500%" width="1000%" height="50%" bx:preset="inner-shadow 1 0 0 10 0.5 rgba(0,0,0,0.7)">
       <feOffset dx="0" dy="0"/>
       <feGaussianBlur stdDeviation="10"/>
       <feComposite operator="out" in="SourceGraphic"/>
