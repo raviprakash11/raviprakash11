@@ -2,7 +2,7 @@
 Ravi Prakash
 </span>
 ,(he/him/his)</p>
-<img src="./Untitled.png" alt="name"/>
+<img src="./Untitled.svg" alt="name"/>
 <p align="center">
 <a href="https://github.com/raviprakash11">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=30&pause=800&color=23007EC6&width=440&height=45&lines=Hello+World;Namaste+World;Guten+Tag+World;Bonjour+World;Hola+World;Salam+World;Sawasdee+World;xin+chào+world;" /></a>
