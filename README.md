@@ -1,6 +1,6 @@
-<p align="center" color="#20232A"> <span font-size="20px">RAVI PRAKASH
-</span>
-,(he/him/his)</p>
+<p align="center">
+<img src="./Name.svg" alt="name"/>
+</p>
 
 <p align="center">
 <a href="https://github.com/raviprakash11">
