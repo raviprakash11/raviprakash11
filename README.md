@@ -1,6 +1,6 @@
 <p align="center">
 <img src="./Name.svg" alt="name"/>
-,(he/him/his)</p>
+</p>
 
 <p align="center">
 <a href="https://github.com/raviprakash11">
