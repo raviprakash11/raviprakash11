@@ -1,14 +1,17 @@
-<p align="center">
+<!-- <p align="center">
 <img src="./Name.svg" alt="name"/>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github.com/raviprakash11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=30&pause=800&color=23007EC6&width=440&height=45&lines=Hello&#44+World;&#60Namaste&#44+World;&#60Guten+Tag&#44+World;&#60Bonjour&#44+World;&#60Hola&#44+World;&#60Salam&#44+World;&#60Sawasdee&#44+World;&#60xin+chào&#44+world;" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=30&pause=800&color=23007EC6&width=440&height=45&lines=Hello&#44+World;Namaste&#44+World;Guten+Tag&#44+World;Bonjour&#44+World;Hola&#44+World;Salam&#44+World;Sawasdee&#44+World;xin+chào&#44+world;" /></a>
 </p>
 
 <!-- <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> -->
+<h3 align="center">
+Hi, I'm Ravi.
+</h3>
 - 🔭 I’m currently working on <a href="https://raviprakash11.github.io/GitWiz" target="_blank">GitWiz</a></br>
 - 🌱 I’m currently learning ReactJS </br>
 - ❓ Ask me about anything related to Automation Testing</br>
@@ -27,7 +30,8 @@
 <h3 align="left">Let's chat here:</h3>
 <a href="https://www.linkedin.com/in/raviprakash11" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discordapp.com/users/955343456266506241"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="raviprakash#2166" ></a>
-
-<div align="end">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
-</div>
+
+<!-- <div align="end">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+</div> -->
