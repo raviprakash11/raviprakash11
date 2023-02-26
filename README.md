@@ -29,5 +29,6 @@
 <a href="https://discordapp.com/users/955343456266506241"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="raviprakash#2166" ></a>
 
 <div align="end">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+<!-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" /> -->
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&countColor=%23ggg" />
 </div>
