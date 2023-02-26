@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 <img src="./Name.svg" alt="name"/>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github.com/raviprakash11">
@@ -9,6 +9,9 @@
 
 <!-- <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> -->
+<p align="center">
+Hi, I'm Ravi.
+</p>
 - 🔭 I’m currently working on <a href="https://raviprakash11.github.io/GitWiz" target="_blank">GitWiz</a></br>
 - 🌱 I’m currently learning ReactJS </br>
 - ❓ Ask me about anything related to Automation Testing</br>
