@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/raviprakash11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=30&pause=800&color=23007EC6&width=440&height=45&lines=Hello+&#44+World;Namaste+&#44+World;Guten+Tag+&#44+World;Bonjour+&#44+World;Hola+&#44+World;Salam+&#44+World;Sawasdee+&#44+World;xin+chào+&#44+world;" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=30&pause=800&color=23007EC6&width=440&height=45&lines=Hello&#44+World;Namaste&#44+World;Guten+Tag&#44+World;Bonjour&#44+World;Hola&#44+World;Salam&#44+World;Sawasdee&#44+World;xin+chào&#44+world;" /></a>
 </p>
 
 <!-- <br>
