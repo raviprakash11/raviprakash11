@@ -17,6 +17,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.linkedin.com/in/raviprakashh/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ravi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/__raviprakash"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ravi | Instagram" width="21px"/></a>
 <a href="https://raviprakashh.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Ravi | Medium" width="21px"/></a>
+<a href="https://discordapp.com/users/955343456266506241"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="raviprakash#2166" ></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -64,3 +65,5 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats 
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=raviprakash11)](https://github.com/raviprakash11)
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
