@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/raviprakash11/pics/master/ProfilePlaceholder.jpeg" alt="banner"/>
+<img src="https://raw.githubusercontent.com/raviprakash11/raviprakash11/main/redme-banner.png" alt="banner"/>
