@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://raviprakash.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/raviprakash11/raviprakash11/main/redme-banner.png" alt="my banner"></a>
+  <a href="https://raviprakash.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/raviprakash11/raviprakash11/main/readme-banner.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
