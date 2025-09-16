@@ -10,16 +10,14 @@ I thrive by engaging both the logical and creative sides of my brain. As a front
 
 ## Writing
 
-I occasionally write on various topics feel free to check them out [here](https://raviprakashh.medium.com/)!
+I occasionally write on various topics feel free to check them out [here](https://novaenergon.vercel.app/)!
 
 ## Social
 
 You can find me on the following social media platforms or send me an email.
 
 - [Linkedin](https://www.linkedin.com/in/raviprakash11)
-- [Github](https://www.github.com/raviprakash11)
-- [Instagram](https://www.instagram.com/__raviprakash)
 - [Discord](https://discordapp.com/users/955343456266506241)
-- [workxravi@gmail.com](mailto:workxravi@gmail.com)
+- [raviprakash98@icloud.com](mailto:raviprakash98@icloud.com)
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviprakash11%2Fraviprakash11&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
