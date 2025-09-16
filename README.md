@@ -2,6 +2,10 @@
 Hi, I'm <a href="https://raviprakash.netlify.app/" target="_blank" rel="noreferrer">Ravi</a> 👋
 </h2>
 
+<p align="center">
+  <a href="https://raviprakash.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/raviprakash11/raviprakash11/main/readme-banner.png" alt="my banner"></a>
+</p>  
+
 <h4>
 I'm a full-stack front-end engineer and AI/ML enthusiastic.
 </h4>
