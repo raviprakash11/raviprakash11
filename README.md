@@ -14,7 +14,7 @@ I thrive by engaging both the logical and creative sides of my brain. As a front
 
 ## Writing
 
-I occasionally write on various topics feel free to check them out [here](https://novaenergon.vercel.app/)!
+I occasionally write on various topics feel free to check them out [here](https://novaenergonblog.vercel.app/)!
 
 ## Social
 
