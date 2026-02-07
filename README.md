@@ -20,7 +20,6 @@ I occasionally write on various topics feel free to check them out [here](https:
 
 You can find me on the following social media platforms or send me an email.
 
-- [Linkedin](https://www.linkedin.com/in/raviprakash11)
 - [Discord](https://discordapp.com/users/955343456266506241)
 - [raviprakash98@icloud.com](mailto:raviprakash98@icloud.com)
 
