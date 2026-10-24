@@ -7,7 +7,7 @@ Hi, I'm <a href="https://raviprakash.netlify.app/" target="_blank" rel="noreferr
 </p>  
 
 <h4>
-I'm a full-stack front-end engineer and AI/ML enthusiastic.
+I'm a front-end engineer and AI/ML enthusiastic.
 </h4>
 
 I thrive by engaging both the logical and creative sides of my brain. As a front-end developer, I feel most at home working collaboratively within a team. I prioritize quality, innovation, and user-centered design, ensuring products are both functional and impactful. Proactive, confident, and an effective communicator, I am always focused on the future.
